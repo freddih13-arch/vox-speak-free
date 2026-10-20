@@ -11,6 +11,7 @@
 - Evaluación comparando **secuencialmente** palabras esperadas con la transcripción del motor de reconocimiento de voz del navegador; marca omisiones/sustituciones y permite oír palabras aisladas.
 - Graba y escucha tu propia voz. La grabación temporal permanece en la pestaña y se descarta al cambiar de frase.
 - Historial y etapas de repaso espaciado por frase, revisión de progreso y exportación/importación de copia JSON.
+- **Mi camino con el inglés:** bitácora fechada de avances y dificultades con exportación a Markdown para documentar cómo aprendiste inglés.
 - Training existente: listening con opción múltiple, pronunciación y entrevistas simuladas.
 - Progressive Web App (PWA) con manifest e interfaz en caché para acceso sin conexión. **La voz sintética y el reconocimiento pueden requerir conexión** según el navegador.
 
